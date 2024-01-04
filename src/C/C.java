@@ -5,7 +5,7 @@ public class C {
 		
 		System.out.println("Third time to let it sink in.");
 		System.out.println("C");
-		System.out.println("");
+		System.out.println("It's not working :(");
 	}
 
 }
